@@ -1,3 +1,3 @@
-exports.myTime = function () {
+export function myTime () {
   return Date();
-};
+}
